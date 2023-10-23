@@ -1,1 +1,1 @@
-um exemplo de ficheiro readme
+um exemplo de ficheiro README
